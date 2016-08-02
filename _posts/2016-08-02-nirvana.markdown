@@ -8,9 +8,13 @@ Yeah, yeah, eventually I decide to use a free hosting system instead of the old 
 
 The main reason for this is nothing about the costs, but I do not want to maintain such a BIG system just for a personal weblog.
 
-OK, and now I hug into [Github Pages](https://github.io) and [Jekyll](http://github.com/mojombo/jekyll), and I copy this site from A.S Carter's [Coding in the Rain](https://github.com/ascarter/ascarter.github.io), an experienced software engineer. What an awesome blog style, I like it!
+OK, and now I hug into [Github Pages](https://github.io) and [Jekyll](http://github.com/mojombo/jekyll), and I copy this site from Andrew Carter's [Coding in the Rain](https://github.com/ascarter/ascarter.github.io), who is an experienced software engineer. What an awesome blog style, I like it!
 
-Well, let's do some tests on Chinese characters:
+Later I will port my old articles here (although I don't have many).
 
-终于我决定使用一个免费的主机托管系统，然后放弃掉原来在阿里云上的那个虚拟机。主要不是因为开销问题，而是不希望为了个人博客而维护一个重量级的系统。我现在投入了Github Pages和Jekyll的怀抱，我从Andrew Carter那里抄了一个博客的模板过来，Carter是一个非常资深的软件工程师。blog的风格很牛逼！
+Well, let's test some Chinese characters:
+
+涅槃
+
+终于我决定使用一个免费的主机托管系统，然后放弃掉原来在阿里云上的那个虚拟机。主要不是因为开销问题，而是不希望为了个人博客而维护一个重量级的系统。我现在投入了[Github Pages](https://github.io)和[Jekyll](http://github.com/mojombo/jekyll)的怀抱，我从Andrew Carter那里抄了一个博客的模板过来，Andrew是一个非常资深的软件工程师。blog的风格很牛逼！后续我会将原paulyang.cn上的内容迁移过来。
 
