@@ -1,0 +1,15 @@
+---
+layout: post
+title: Reboot
+date: 2009-12-31 22:05:00
+---
+
+It's been a long time coming but I've finally done a reboot of my web site. The old blog is gone. Some of the content might find its way back in here but probably not.
+
+I plan to write about what I know - software, Rails in particular.
+
+I have a long list of posts that I've wanted to write for some time. I used the excuse of the website redesign to put it off. With that out of the way, I'll begin to publish those regularly over the next few weeks.
+
+I have a couple notes on building this site. I'll expand on this much more later but it is built using [Jekyll](http://github.com/mojombo/jekyll). This is an excellent static site generation tool written in Ruby. When you think about it, this is the way personal web publishing should be done. I don't need a complicated web application for the relatively few pages I want to publish.
+
+Jekyll is a breath of fresh air compared with bloated software like [Wordpress](http://wordpress.org). The Jekyll project wiki has everything you need to get started. Or read [Adam's post](http://blog.martiandesigns.com/) on how he built his site using Jekyll. I'll be putting the source for this website up on my [GitHub](http://github.com/ascarter) account in the next few days.

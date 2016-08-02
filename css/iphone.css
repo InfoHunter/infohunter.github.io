@@ -1,0 +1,56 @@
+body {
+	font-size: 12px;
+}
+
+#container {
+	width: 960px;
+	margin-left: 8px;
+	margin-right: 8px;
+	font-size: 2.8em;
+}
+
+#content {
+	width: 95%;
+	font-size: 1.6em;
+	line-height: 1.5;
+	padding: 0;
+}
+
+nav .menu {
+    margin-right: 0.4em;
+    padding: 0.4em;
+}
+
+
+article {
+    padding: 0.0em;
+	border-bottom: 1px solid #ddd;
+}
+
+article code {
+	font-size: 0.8em;
+	font-family: monospace;
+}
+
+article .highlight pre {
+	font-size: 1.0em;
+	font-family: monospace;
+}
+
+#masthead {
+	font-size: 1.4em;
+}
+
+footer {
+    font-size: 1.4em;
+    line-height: 1.5;
+}
+
+#archive {
+    padding: 0;
+}
+
+#archive article {
+    padding: 0;
+}
+
