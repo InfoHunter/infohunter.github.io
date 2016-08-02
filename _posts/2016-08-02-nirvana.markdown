@@ -1,0 +1,16 @@
+---
+layout: post
+title: Nirvana
+date: 2016-08-02 16:22:00
+---
+
+Yeah, yeah, eventually I decide to use a free hosting system instead of the old one (which is deployed in a virtual machine of Alibaba Cloud).
+
+The main reason for this is nothing about the costs, but I do not want to maintain such a BIG system just for a personal weblog.
+
+OK, and now I hug into [Github Pages](https://github.io) and [Jekyll](http://github.com/mojombo/jekyll), and I copy this site from A.S Carter's [Coding in the Rain](https://github.com/ascarter/ascarter.github.io), an experienced software engineer. What an awesome blog style, I like it!
+
+Well, let's do some tests on Chinese characters:
+
+终于我决定使用一个免费的主机托管系统，然后放弃掉原来在阿里云上的那个虚拟机。主要不是因为开销问题，而是不希望为了个人博客而维护一个重量级的系统。我现在投入了Github Pages和Jekyll的怀抱，我从Andrew Carter那里抄了一个博客的模板过来，Carter是一个非常资深的软件工程师。blog的风格很牛逼！
+
