@@ -48,11 +48,11 @@ git clone https://github.com/letsencrypt/letsencrypt.git
 
 例如本站的情况是：
 
-<span id="about-portrait"><img src="images/certs_x.png" alt="certs" /></span>
+<span id="img1"><img src="images/certs_x.png" alt="certs" /></span>
 
 N的名字，同时会用X509v3的SAN扩展添加多个域名，例如本站是两个：
 
-<span id="about-portrait"><img src="images/san_x.png" alt="san" /></span>
+<span id="img2"><img src="images/san_x.png" alt="san" /></span>
 
 我们使用的时候需要的是3和4，将其配置在对应的web服务器中即可，例如我使用的是tengine，因此只需要在tengine的配置文件中添加对证书和私钥的私用即可：
 
@@ -83,11 +83,11 @@ letsencrypt-auto的其他用发可以用-h或者-h [topic]的方式查看，主�
 1. letsencrypt客户端在要申请证书的域名所指向的web服务器上先生成一个公私钥对儿
 2. letsencrypt客户端连接Let’s Encrypt的server端，就是连接CA申请开始认证
 3. Let’s Encrypt的server端会发给letsencrypt客户端一些“任务”，由客户端完成以证明其有权控制域名，基本上是这样：
-   <span id="about-portrait"><img src="images/Screenshot-from-2016-01-10-001136.png" alt="s1" /></span>
+   <span id="img3"><img src="images/Screenshot-from-2016-01-10-001136.png" alt="s1" /></span>
    要求有两点，一个是用客户端生成的私钥对一个server指定的数据进行签名（上图中的9cf0b331），二是将server指定的内容放在服务器的指定位置上。
 
 4. 在客户端按照server的要求完成上述任务后，通知server开始校验，如下图所示：
-   <span id="about-portrait"><img src="images/Screenshot-from-2016-01-10-001151.png" alt="s2" /></span>
+   <span id="img4"><img src="images/Screenshot-from-2016-01-10-001151.png" alt="s2" /></span>
    server端会首先使用letsencrypt客户端生成的公钥校验签名是否有效，之后再尝试下载待签发域名的指定位置下的内容并进行判断，如果全都没问题，则通知client验证通过
 5. 之后就是证书的签发，letsencrypt客户端会发送给server端CSR，然后server端签发证书并发回给client，这些流程和普通CA都是相同的
 
