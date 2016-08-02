@@ -7,9 +7,9 @@ title: code
 
 My open source projects and contributions are:
 
-* [SEnginx][senginx] &mdash; Security-Enhanced nginx by Neusoft corporation, mainly aimed at solving threats to web sites
+* [SEnginx][senginx] &mdash; Security-Enhanced nginx by Neusoft corporation
 * [Krake][krake] &mdash; A health monitor that supports http and other protocols
-* [SEnginx-LBaaS-Driver][lbass] &mdash; An OpenStack LBaaS driver to integrate SEnginx
+* [SEnginx-LBaaS-Driver][lbaas] &mdash; An OpenStack LBaaS driver to integrate SEnginx
 * [Tengine][tengine] &mdash; Nginx variant of Alibaba group
 
 [senginx]: https://github.com/NeusoftSecurity/SEnginx
