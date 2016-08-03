@@ -9,6 +9,6 @@ I will not tell you where I currently work at, it's very important to keep it se
 
 # Contact Me
 
-* **Email:** paulyang at gmail.com
+* **Email:** paulyang.inf at gmail.com
 * **GitHub:** [github.com/InfoHunter](http://github.com/InfoHunter)
 * **Twitter:** [@paulyang_inf](http://twitter.com/paulyang_inf)
