@@ -48,4 +48,4 @@ OpenSSL大法博大精深，非内功深厚者无以参透其本质，而其文�
 
 虽能力有限，然愿以此砖头引璞玉，以此剑谱传心法，期终达成互联网净化之目标，与吾曹共勉。
 
-<span id="bible"><img src="images/Photo_1230_1d.jpg" alt="bible"  width="50%" /></span>
+<span id="bible"><img src="/images/Photo_1230_1d.jpg" alt="bible"  width="50%" /></span>
