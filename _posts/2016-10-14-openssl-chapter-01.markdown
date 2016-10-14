@@ -9,8 +9,10 @@ date: 2016-08-04 22:00:00
 ## SSL协议
 
 说到人类互联网的历史，就不得不提到一个古老而响亮的名字，Netscape。这家总部位于美国加州的公司，为人类贡献了并留下了很多有意义的东西，例如JavaScript，Gecko，Mozilla项目，当然也包括SSL协议。早在1995，Netscape提出了SSL的第一个可用版本SSL 2.0，在1996年，Netscape发布了SSL 3.0的协议规范，由此拉开了当代Web流量加密的序幕。当时在Netscape做首席科学家的Taher Elgamal博士是公认的“SSL之父”。
+
 > Taher Elgamal
 > Taher Elgamal博士是著名的ElGamal非对称加密和签名算法的发明者，广泛使用的DSA签名算法属于ElGamal算法的变种版本。Taher Elgamal博士师从密码学大师Martin Hellman，就是DH算法中的那个'H'，而ElGamal算法就是基于DH算法而来。Taher Elgamal博士目前在Salesforce.com担任安全方向CTO。
+
 Netscape在自家的全线产品中实现了对SSL协议的支持，包括Netscape Navigator浏览器以及服务器端的FastTrack和Enterprise web server等。但是由于Netscape是一家美国公司，受当时美国对密码技术的出口限制，Netscape的那些提供SSL的产品无法在美国之外使用高安全强度的加密技术。例如，当时Netscape的产品分为“美国国内版本”和“国际版本”，在国际版本的产品中，对称秘钥的长度被限制在40-bit，RSA私钥长度被限制在512-bit，都是可以被很容易的破解。现今随着互联网和开源软件的崛起，优秀的密码学系统被广泛的使用，密码学出口限制的实际效果已经大打折扣，但这种限制在当时确实是一个问题。
 
 ## SSLeay
