@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《OpenSSL》辟邪剑法第一式
+title: 《OpenSSL辟邪剑法》第一式
 date: 2016-10-14 22:00:00
 ---
 
