@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《OpenSSL》辟邪剑法第一式
-date: 2016-08-04 22:00:00
+date: 2016-10-14 22:00:00
 ---
 
 # OpenSSL前世今生
@@ -49,8 +49,8 @@ OpenSSL从1998年释放第一个版本0.9.1c开始，到最新的1.1.0b版本，
 > Heartbleed
 > http://heartbleed.com/，其主要影响是，攻击者可以利用该漏洞对服务器内存进行读取，进而获取各种秘钥、用户名/密码等信息。
 
-心脏滴血漏洞被披露之后，Linux基金会联合为了提高互联网基础设施的软件质量，发起了名为Core Infrastucture Initiatives (CII)的项目，该项目联合了多家商业公司，包括IBM，微软，Intel，AWS等，其目的是为了资助一些关键的开源项目，帮助它们变得更加完善且高质量，而OpenSSL则顺理成章的成为了CII第一个资助的开源项目。在此之前，OpenSSL处于‘缺衣少粮’的状态，每年只能依靠捐款而获得大概2000美元的经费。CII资助了开发人员在OpenSSL项目上进行了全职开发，并希望此举能达到提高OpenSSL的安全性等目的。
+心脏滴血漏洞被披露之后，Linux基金会为了提高互联网基础设施的软件质量，发起了名为Core Infrastucture Initiatives (CII)的项目，该项目联合了多家商业公司，包括IBM，微软，Intel，AWS等，其目的是为了资助一些关键的开源项目，帮助它们变得更加完善且高质量，而OpenSSL则顺理成章的成为了CII第一个资助的开源项目。在此之前，OpenSSL处于‘缺衣少粮’的状态，每年只能依靠捐款而获得大概2000美元的经费。CII资助了开发人员在OpenSSL项目上进行了全职开发，并希望此举能达到提高OpenSSL的安全性等目的。
 
 在心脏滴血漏洞公布之后，OpenBSD和Google分别对OpenSSL进行了fork，开始发展自己的SSL/TLS库，他们各自库的名称分别名为LibreSSL和BoringSSL。LibreSSL是OpenBSD社区在2014年4月从OpenSSL中fork出的一个版本，主要目的是为了重构OpenSSL的代码并增强安全性，LibreSSL的第一个版本在2014年7月发布，初始版本为2.0.0，LibreSSL中删除了OpenSSL中遗留的大量无用和老旧代码，并增加了一些新的特性，例如ChaCha和Poly1305算法等。在2014年6月，Google也基于OpenSSL fork出了自己的版本，BoringSSL。BoringSSL并不旨在取代OpenSSL成为一个通用的SSL库，而是更多的为了Google自己的业务需要而独立开发的版本，并主要在Chrome和Android中使用。
 
-根据Mark J. Cox的说法，在未来，OpenSSL期望成为最广泛使用的通用型SSL库，并且基于心脏滴血之后的种种措施和手段，期望能将OpenSSL这个品牌变得更加正面以减弱那些负面的影响。关于LibreSSL和BoringSSL，Mark表示OpenSSL会和他们在安全问题上保持沟通，并维持良好的合作关系。
+根据Mark J. Cox的说法，在未来，OpenSSL希望能成为最广泛使用的通用型SSL库，并且基于心脏滴血之后的种种措施和手段，期望能将OpenSSL这个品牌变得更加正面以减弱那些负面的影响。关于LibreSSL和BoringSSL，Mark表示OpenSSL会和他们在安全问题上保持沟通，并维持良好的合作关系。
