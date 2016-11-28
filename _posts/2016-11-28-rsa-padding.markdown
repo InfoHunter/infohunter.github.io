@@ -84,7 +84,7 @@ rsa routines:RSA_padding_check_PKCS1_type_2:pkcs decoding error
 rsa routines:rsa_ossl_private_decrypt:padding check failed
 ```
 
-这个就是因为在实际中，一般不会直接使用原语对数据进行操作，因为直接使用原语进行运算会产生很多的安全问题，可以参考：[这里](https://en.wikipedia.org/wiki/RSA_\(cryptosystem\)#Attacks\_against\_plain\_RSA)
+这个就是因为在实际中，一般不会直接使用原语对数据进行操作，因为直接使用原语进行运算会产生很多的安全问题，可以参考：[这里](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29#Attacks_against_plain_RSA)
 
 为此，实践中的RSA都会填充（padding）随机数据，然后再进行加密，可以使密文多样化，这种规定如何填充的方法就是scheme。
 
