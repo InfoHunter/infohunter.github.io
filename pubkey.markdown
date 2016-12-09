@@ -10,20 +10,19 @@ Following you'll find my public key
 Paul Yang <paulyang.inf@gmail.com> (584B2DFC)
 
 You can use this key to encrypt our messages and verify my signature.
-
 Please import the public key into your local OpenPGP Key-Manager.
-
 Looking forward to exchange snooping-free messages with you.
+
 
 下面将贴出我的公钥。
 
 Paul Yang <paulyang.inf@gmail.com> (584B2DFC)
 
 你可以使用这把公钥来向我发送加密的数据以及验证我的数字签名。
-
 请将此公钥导入到你本地的OpenPGP秘钥管理器中（例如GPG等）。
+期待早日与你进行安全的通信。
 
-期待早日于你进行安全的通信。
+My public key/我的公钥:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
