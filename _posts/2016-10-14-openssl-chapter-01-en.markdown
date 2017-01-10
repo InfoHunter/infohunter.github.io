@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chapter 01 - A Brief History of OpenSSL
-date: 2016-11-26 22:00:00
+date: 2017-01-10 12:00:00
 ---
 
 # A Brief History of OpenSSL
