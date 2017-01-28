@@ -3,3 +3,4 @@ _site/
 bin
 tags
 vendor/bundle/ruby
+.DS_Store
