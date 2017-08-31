@@ -11,7 +11,6 @@ date: 2017-01-10 12:00:00
 When people talk about the history of Internet, a famous legacy name will be always mentioned, Netscape. This company, whose headquarters were located in California, made a huge contribution to the technical evolution of humanity, including JavaScript, Gecho, Project Mozilla and of course SSL protocol. Back in 1995, Netscape released the first production-ready version of SSL, SSL 2.0. In 1996, Netscape released the SSL 3.0 specification. At that point the era of encrypted Web traffic has begun. Taher Elgamal, who worked for Netscape as 'Chief Scientist' at that time, is recognized as 'father of SSL'.
 
 > Taher Elgamal
->
 > Dr. Taher Elgamal is the creator of the famous ElGamal asymmetric key encryption and signature algorithm  The widely used DSA algorithm is a variant of ElGamal signature algorithm. Dr. Taher Elgamal's Doctoral advisor was Martin Hellman, the 'H' in DH algorithm, and ElGammal alogorithm is based on DH key exchange algorithm. Dr. Taher Elgamal serves as CTO of Security at Salesforce.com.
 
 Netscape has supported the SSL protocol in its own product line, including Netscape Navigator and FastTrack, Enterprise web server etc. on the server side. But since Netscape was an U.S. based company, due to limits on the export of cryptography from the U.S., Netscape's product could not be used outside the U.S. with strong encryption. For instance, at that time, Netscape's products were separated into a 'domestic version' and an 'international version'. For those 'international' products, symmetric key length was limited to 40-bit, the RSA private key was limited to 512-bit, and all of the above keys were easy to break even back in those days. Along with the rise of the Internet and open source software, many great cryptographic systems are widely used. Nowadays the effect of the cryptographic export limitations is greatly reduced, but those limits were indeed a problem back to the 1990s.
@@ -39,7 +38,6 @@ At that time, the primary product that C2Net offered was a web server named Stro
 In 1998, Tim and Eric left C2Net, and joined RSA Data Security. In 2000, C2Net was acquired by Red Hat and Mark Cox worked as Senior Director of Product Security for Red Hat till now.
 
 > C2Net
->
 > C2Net played a very important role in the history of Internet security, read more at: https://awe.com/mark/history/c2net.html and more info about Stronghold at: https://awe.com/mark/history/stronghold.html
 
 ## OpenSSL
@@ -49,7 +47,6 @@ When Tim and Eric left C2Net in 1998, Mark decided to launch a new open source p
 From the first release 0.9.1c in 1998, to the latest 1.1.0 branch, the OpenSSL project has experinced ups and downs. The most significant event that ever influnced the project was the 'Heartbleed' vulnerability in 2014.
 
 > Heartbleed
->
 > http://heartbleed.com/, the impact is that attacker could read the memory data in HTTPS servers and eventually recover a lot of important information including private keys, user passwords etc.
 
 After Heartbleed was disclosed, the Linux Foundation initiated a project named CII (Core Infrastructure Initiative), which aimed to help improve the quality of Internet infrastructure software. The CII project collaborated with companies including IBM, Microsoft, Intel, AWS, etc. to fund some key-role open source projects to help them be better and more secure. OpenSSL was among the first projects that were funded by CII undoubtedly and this ended the 'underfunded' status of OpenSSL, which  until then was receiving only about USD 2,000 per year in donations. CII sponsored two full-time OpenSSL core developers and with the goal of a well-developed OpenSSL.
