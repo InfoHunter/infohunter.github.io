@@ -4,8 +4,6 @@ title: The Untold Story - Anecdotes from the OpenSSL China tour
 date: 2018-02-25 24:00:00
 ---
 
-# The Untold Story - Anecdotes from the OpenSSL China Tour
-
 ## Table of Contents
 
 1. [Why this article is here?](#Why-this-article-is-here?)
