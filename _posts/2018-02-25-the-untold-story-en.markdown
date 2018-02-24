@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Untold Story: Anecdotes from the OpenSSL China tour
+title: The Untold Story - Anecdotes from the OpenSSL China tour
 date: 2018-02-25 24:00:00
 ---
 
@@ -34,7 +34,7 @@ After Matt and Jane arrived at the hotel, we took this photo, and this was also 
 
 <span id="2-1"><img src="/images/anecdotes/2-1.jpg" alt="first photo in China" /></span>
 
-> Lunch with Matt
+_Lunch with Matt_
 
 Everthing ran smoothly until the afternoon. Sean called to tell me that Steve didn't show up at the airport but the plane had already landed for almost 2 hours. We didn't have any method to contace Steve since Steve bought himself a SIM card in US but that card didn't work in his phone before he left his country. So we asked the airlinesm and they told us Steve didn't board. That was very confused for us, so we contacted Beijing to check the filght information of Steve. Finally we found that someone in BaishanCloud made the flight wrong and the true time of arrival of Steve should be in the evening. So Sean had to continue to wait at the airport to pick up Steve. That was a though day for him anyway...
 
@@ -54,13 +54,13 @@ On 18th September, we went to Alibaba HQ, the Xixi campus in Hangzhou. Rich and 
 
 <span id="4-1"><img src="/images/anecdotes/4-1.jpg" alt="met with Rich in 2015" /></span>
 
-> First met with Rich
+_First met with Rich in 2015_
 
 After the meeting we took a walk in the campus, Rich asked me about what I felt coming back again here. Well, it's a little complicated. I first worked on OpenSSL (as well as other SSL/TLS and cryptography stuffs) was in Alibaba, in 2014. The most important thing I've gotten in this company was the opportunities to widen my vision during last two years. That meant a lot to me. Back to the feelings, I was very happy to meet some old buddies there and was cherished the memory a little of those day-and-night when we fought together.
 
 <span id="4-2"><img src="/images/anecdotes/4-2.jpg" alt="sculpture in Ali HQ" /></span>
 
-> Sculpture in Alibaba
+_Sculpture in Alibaba_
 
 ## The "Twins"
 
@@ -68,7 +68,7 @@ After hanging out in Alibaba HQ, we departed for Shenzhen next day and it's Shir
 
 <span id="5-1"><img src="/images/anecdotes/5-1.jpg" alt="depart for Shenzhen" /></span>
 
-> Depart for Shenzhen
+_Depart for Shenzhen_
 
 It's very interested when we took a tour in Huawei's exhibition center - a place showing the company's most advantage techniques. One of the most interesting thing was there was a VR game section and two person could play it together to experience Huawei's 5G tech. To play the VR game, a special device was needed and it would be convenient if the player didn't wear glasses. Since Matt and Rich were the only two guys who didn't wear glasses, so they went on the stage.
 
