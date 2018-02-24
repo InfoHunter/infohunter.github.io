@@ -4,7 +4,7 @@ title: The Untold Story - Anecdotes from the OpenSSL China tour
 date: 2018-02-25 24:00:00
 ---
 
-# The Untold Story: Anecdotes from the OpenSSL China Tour
+# The Untold Story - Anecdotes from the OpenSSL China Tour
 
 ## Table of Contents
 
@@ -74,7 +74,7 @@ It's very interested when we took a tour in Huawei's exhibition center - a place
 
 <span id="5-2"><img src="/images/anecdotes/5-2.jpg" alt="twins" /></span>
 
-> The "twins"
+_The "Twins"_
 
 This is funny and it reminded people of a 1988 movie with the name 'Twins'. The game was about shooting zombies and it was very entertaining even just to watch the players shooting to the air for audience.
 
@@ -84,7 +84,7 @@ Having finished the visit to Huawei in the morning, we went to the zoo in the af
 
 <span id="6-1"><img src="/images/anecdotes/6-1.jpg" alt="photographer" /></span>
 
-> Richard is photographing
+_Richard was photographing_
 
 A Liger is the hybrid cross of a lion father and a tiger mother, apparently the word Liger itself indicates this already. To the contrary, a Tigon comes from a tiger father and a lion mother. I have seen them in the zoo in Shenzhen, but to be honest, I still can not distinguish them accurately as I always considered no matter which one is the father, the children should seem very similar but only the names are different. It could be interesting if I dig into this topic deeper in the future.
 
@@ -92,25 +92,25 @@ And we also had the chance to feed the big cats in a well ‘armoured’ bus, th
 
 <span id="6-2"><img src="/images/anecdotes/6-2.jpg" alt="armoured bus" /></span>
 
-> The bus we were in
+_The bus we were in_
 
 The driver drove the bus into the 'free-ranging' area. Everyone in the bus had a fork and a piece of chicken leg - which was used to feed the tigon/liger/tigers.
 
 <span id="6-3"><img src="/images/anecdotes/6-3.jpg" alt="park gate" /></span>
 
-> The portal to the wild, Jurassic Park?
+_The portal to the wild, Jurassic Park?_
 
 Actually it was a little tricky to feed the big cats - the best method was to ‘seduce’ the big cats with the chicken and didn't put it too close to them, thus the big cats would cling to the safety nets of the bus and people inside could have more time to watch them.
 
 <span id="6-4"><img src="/images/anecdotes/6-4.jpg" alt="Liger or Tigon" /></span>
 
-> I think this should be a Tigon
+_I think this should be a Tigon_
 
 If you put the chicken too close to them, they would have the chicken and kept far from the bus - but in practice, it was hard to achieve this so we ran out of chicken quickly.
 
 <span id="6-5"><img src="/images/anecdotes/6-5.jpg" alt="Tiger" /></span>
 
-> This is a real tiger
+_This is a real tiger_
 
 ## Damn, the Boarding Pass is Lost
 
@@ -118,7 +118,7 @@ On 21 September, we left Shenzhen and headed to Beijing. An adventure happened i
 
 <span id="7-1"><img src="/images/anecdotes/7-1.jpg" alt="at the airport" /></span>
 
-> Moment that I still had my boarding pass
+_Moment that I still had my boarding pass_
 
 I went to the boarding gate to ask if I could use the ID card for boarding, the answer was negative and I had to go to the counter of Shenzhen Airlines to reprint the boarding pass - the counter located several hundreds meters away from the gate and it was only 15 minutes before the gate got closed.
 
@@ -128,7 +128,7 @@ It felt good to see the night of Beijing with all other guys! It was more scared
 
 <span id="7-2"><img src="/images/anecdotes/7-2.jpg" alt="Arrival in beijing" /></span>
 
-> Arrival in beijing
+_Arrival in Beijing_
 
 Postscript: Several days later when I got home and cleared up my backpack, I found the 'lost' boarding pass at the bottom of my backpack. Damn it, I should be more careful.
 
@@ -138,19 +138,19 @@ In Beijing we had lots of work. And the most important agenda would be the open 
 
 <span id="8-1"><img src="/images/anecdotes/8-1.jpg" alt="Meeting with BaishanCloud" /></span>
 
-> Meeting in BaishanCloud office
+_Meeting in BaishanCloud office_
 
 We actually didn't know what we prepared interested the audience or not. And we didn't know if the simultaneous interpretation service in the saloon was good or not. It was not easy for the audience to have a most-English open source event.
 
 <span id="8-2"><img src="/images/anecdotes/8-2.jpg" alt="Preparing" /></span>
 
-> Preparing
+_Preparing_
 
 Everyone didn't know if we would mess up the presentations or not. If no one likes to ask questions or doesn't understand the speech well, that would a catastrophe. Lots of media persons awaited for writing report there, I hoped the atmosphere could be 'hot'.
 
 <span id="8-3"><img src="/images/anecdotes/8-3.jpg" alt="matt-tls13" /></span>
 
-> Matt's talking about TLS13
+_Matt's talking about TLS13_
 
 After I have done my presentation, Steve, Tim and I were grabbed to another room to have an interview so I didn't really aware of how it was going outside there. And I missed all the presentations after mine, which should be Rich, Richard and Tim. Some topics in their slides were also interest me a lot, but no chance to listen the speech lively.
 
@@ -158,7 +158,7 @@ The result was excellent by the feedback from staffs of BaishanCloud.
 
 <span id="8-4"><img src="/images/anecdotes/8-4.jpg" alt="group photo" /></span>
 
-> Group photo with some audience
+_Group photo with some audience_
 
 According to Tim, they were asked questions after the event was over. And many Chinese technical guys were very interested in TLS 1.3, Post-Quantum Cryptography and also other topics we have talked about.
 
@@ -178,7 +178,7 @@ We took a walk in the shops nearby after finishing the dinner, waiting for the b
 
 <span id="9-1"><img src="/images/anecdotes/9-1.jpg" alt="Rich" /></span>
 
-> Rich with cool glasses
+_Rich with cool glasses_
 
 ## Drunk as a Lord
 
@@ -192,7 +192,7 @@ When I was in the bus, I was something like this:
 
 <span id="10-1"><img src="/images/anecdotes/10-1.jpg" alt="Paul" /></span>
 
-> Photographed by Tim. Good capture!
+_Photographed by Tim. Good capture!_
 
 ## The Final 'Haul Ass'
 
@@ -206,7 +206,7 @@ Rich, on behalf of OpenSSL, has sent me a party hat after he got back to USA and
 
 <span id="11-1"><img src="/images/anecdotes/11-1.jpg" alt="Beer hat" /></span>
 
-> Party hat with two beer slots
+_Party hat with two beer slots_
 
 It was not a long trip in China, but as I mentioned earlier, this was the first time members of OpenSSL were here, so it's important. I hope this trip was a start to make a channel of communication between China and the international open source community, which can help more Chinese developers to understand how to participate in the community. The community can also benefit from intelligence in China, to help the software being more widely used in Chinese market.
 
@@ -215,3 +215,4 @@ All things are difficult before they are easy. And the first step is always the 
 Hope to meet you guys again!
 
 <span id="11-2"><img src="/images/anecdotes/11-2.jpg" alt="haul ass" /></span>
+
